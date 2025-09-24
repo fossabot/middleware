@@ -1,6 +1,7 @@
 # monorepo for Hono third-party middleware
 
 [![codecov](https://codecov.io/github/honojs/middleware/graph/badge.svg)](https://codecov.io/github/honojs/middleware)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fseong8899%2Fmiddleware.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fseong8899%2Fmiddleware?ref=badge_shield)
 
 This repository is monorepo for third-party middleware of Hono.
 We develop middleware in this repository and manage the issues and pull requests.
@@ -61,3 +62,6 @@ The Hono maintainers will merge it to release the package at the appropriate tim
 
 The Author of this repository is Yusuke Wada <<https://github.com/yusukebe>>. However, the code under the `packages/*` is in each middleware author.
 Basically, distributed under the MIT license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fseong8899%2Fmiddleware.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fseong8899%2Fmiddleware?ref=badge_large)
